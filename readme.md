@@ -1,6 +1,8 @@
+**Installation**
+
 ```angular2html
 # clone this repo with git
-$ git clone https://github.com/aryanjain1/book_inventory.git
+$ git clone https://github.com/aryanjain1/moso.git
 
 $ python -m venv environment_name
 
